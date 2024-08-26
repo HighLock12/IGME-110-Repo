@@ -1,6 +1,6 @@
-## My Fantasic (I can't spell) Listicle
+# My Fantasic (I can't spell) Listicle
 ---
-# Child Friendly Video Games
+## Child Friendly Video Games
 -Mario
 -Luigi's Mansion
 -Smash Brothers
