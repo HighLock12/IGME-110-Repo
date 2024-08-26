@@ -2,7 +2,7 @@
 ---
 ## Fav Sites
 
-- RIT
+- RIT - https://www.rit.edu/
 - Google
 - Bing
 
