@@ -2,7 +2,7 @@
 ---
 ## Child Friendly Video Games
 
-- ![Mario](https://static.independent.co.uk/2023/04/06/15/newFile-10.jpg?quality=75&width=1200&auto=webp) 
+- [Mario](https://static.independent.co.uk/2023/04/06/15/newFile-10.jpg?quality=75&width=1200&auto=webp) 
 - Luigi's Mansion
 - Smash Brothers
 - Doom
